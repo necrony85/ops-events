@@ -1,5 +1,8 @@
 name: Update Events Pattern
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: '0 */6 * * *'
