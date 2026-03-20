@@ -1,43 +1,4 @@
 const fs = require('fs');
-const https = require('https');
-
-const API_URL = 'https://metaforge.app/api/arc-raiders/events-schedule';
-
-function fetchData() {
-  return new Promise((resolve, reject) => {
-    const options = {
-      headers: {
-        'User-Agent': 'Mozilla/5.0',
-        'Accept': 'application/json',
-      },
-    };
-
-    https.get(API_URL, options, (res) => {
-      let data = '';
-
-      console.log('STATUS:', res.statusCode);
-
-      res.on('data', (chunk) => {
-        data += chunk;
-      });
-
-      res.on('end', () => {
-        console.log('RAW TEXT:', data.slice(0, 500));
-
-        try {
-          const json = JSON.parse(data);
-          resolve(json);
-        } catch (e) {
-          console.error('JSON PARSE ERROR');
-          reject(e);
-        }
-      });
-    }).on('error', (err) => {
-      console.error('REQUEST ERROR:', err);
-      reject(err);
-    });
-  });
-}
 
 function extractPattern(events) {
   const map = new Map();
@@ -77,20 +38,17 @@ function extractPattern(events) {
   return result;
 }
 
-async function main() {
-  const data = await fetchData();
-
-  console.log('RAW RESPONSE:', JSON.stringify(data).slice(0, 500));
+function main() {
+  const raw = fs.readFileSync('raw.json', 'utf-8');
+  const data = JSON.parse(raw);
 
   const events =
     Array.isArray(data) ? data :
     data.events ?? data.data ?? [];
 
-  if (!Array.isArray(events)) {
-    throw new Error('Invalid API structure');
-  }
-
   const pattern = extractPattern(events);
 
   fs.writeFileSync('pattern.json', JSON.stringify(pattern, null, 2));
 }
+
+main();
