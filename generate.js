@@ -1,4 +1,5 @@
 const fs = require('fs');
+const fetch = require('node-fetch');
 
 const API_URL = 'https://metaforge.app/api/arc-raiders/events-schedule';
 
