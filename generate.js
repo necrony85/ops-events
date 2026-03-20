@@ -63,9 +63,18 @@ function extractPattern(events) {
 
 async function main() {
   const data = await fetchData();
-  const pattern = extractPattern(data);
+
+  console.log('RAW RESPONSE:', JSON.stringify(data).slice(0, 500));
+
+  const events =
+    Array.isArray(data) ? data :
+    data.events ?? data.data ?? [];
+
+  if (!Array.isArray(events)) {
+    throw new Error('Invalid API structure');
+  }
+
+  const pattern = extractPattern(events);
 
   fs.writeFileSync('pattern.json', JSON.stringify(pattern, null, 2));
 }
-
-main();
