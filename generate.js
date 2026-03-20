@@ -5,7 +5,14 @@ const API_URL = 'https://metaforge.app/api/arc-raiders/events-schedule';
 
 function fetchData() {
   return new Promise((resolve, reject) => {
-    https.get(API_URL, (res) => {
+    const options = {
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+        'Accept': 'application/json',
+      },
+    };
+
+    https.get(API_URL, options, (res) => {
       let data = '';
 
       console.log('STATUS:', res.statusCode);
@@ -15,7 +22,7 @@ function fetchData() {
       });
 
       res.on('end', () => {
-        console.log('RAW TEXT:', data.slice(0, 1000));
+        console.log('RAW TEXT:', data.slice(0, 500));
 
         try {
           const json = JSON.parse(data);
