@@ -1,11 +1,26 @@
 const fs = require('fs');
-const fetch = require('node-fetch');
+const https = require('https');
 
 const API_URL = 'https://metaforge.app/api/arc-raiders/events-schedule';
 
-async function fetchData() {
-  const res = await fetch(API_URL);
-  return await res.json();
+function fetchData() {
+  return new Promise((resolve, reject) => {
+    https.get(API_URL, (res) => {
+      let data = '';
+
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+
+      res.on('end', () => {
+        try {
+          resolve(JSON.parse(data));
+        } catch (e) {
+          reject(e);
+        }
+      });
+    }).on('error', reject);
+  });
 }
 
 function extractPattern(events) {
@@ -13,7 +28,7 @@ function extractPattern(events) {
 
   for (const e of events) {
     const name = e.name;
-    const zone = e.map; // важно: metaforge ползва "map"
+    const zone = e.map;
 
     const start = new Date(e.startTime);
     const hour = start.getHours();
