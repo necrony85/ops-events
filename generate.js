@@ -8,18 +8,27 @@ function fetchData() {
     https.get(API_URL, (res) => {
       let data = '';
 
+      console.log('STATUS:', res.statusCode);
+
       res.on('data', (chunk) => {
         data += chunk;
       });
 
       res.on('end', () => {
+        console.log('RAW TEXT:', data.slice(0, 1000));
+
         try {
-          resolve(JSON.parse(data));
+          const json = JSON.parse(data);
+          resolve(json);
         } catch (e) {
+          console.error('JSON PARSE ERROR');
           reject(e);
         }
       });
-    }).on('error', reject);
+    }).on('error', (err) => {
+      console.error('REQUEST ERROR:', err);
+      reject(err);
+    });
   });
 }
 
