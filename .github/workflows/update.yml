@@ -2,7 +2,7 @@ name: Update Events Pattern
 
 permissions:
   contents: write
-  
+
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -13,12 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Fetch API via curl
+        run: |
+          curl -s -H "User-Agent: Mozilla/5.0" \
+          https://metaforge.app/api/arc-raiders/events-schedule \
+          -o raw.json
+
+      - name: Debug raw.json (optional)
+        run: |
+          echo "RAW PREVIEW:"
+          head -c 500 raw.json || echo "No data"
 
       - name: Run generator
         run: node generate.js
