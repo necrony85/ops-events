@@ -22,9 +22,9 @@ function main() {
       return (
         event &&
         typeof event.name === 'string' &&
-        event.name.trim().isNotEmpty &&
+        event.name.trim().length > 0 &&
         typeof event.map === 'string' &&
-        event.map.trim().isNotEmpty &&
+        event.map.trim().length > 0 &&
         event.startTime != null &&
         event.endTime != null
       );
