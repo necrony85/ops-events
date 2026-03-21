@@ -1,4 +1,4 @@
-name: Update Events Pattern
+name: Update Events Feed
 
 permissions:
   contents: write
@@ -21,24 +21,24 @@ jobs:
         with:
           node-version: 20
 
-      - name: Fetch API via curl
+      - name: Fetch external API
         run: |
           curl -s -H "User-Agent: Mozilla/5.0" \
           https://metaforge.app/api/arc-raiders/events-schedule \
           -o raw.json
 
-      - name: Debug raw.json (optional)
+      - name: Debug raw.json preview
         run: |
           echo "RAW PREVIEW:"
           head -c 500 raw.json || echo "No data"
 
-      - name: Run generator
+      - name: Generate events.json
         run: node generate.js
 
-      - name: Commit changes
+      - name: Commit updated events feed
         run: |
           git config user.name "bot"
           git config user.email "bot@github.com"
-          git add pattern.json
-          git commit -m "update pattern" || echo "no changes"
+          git add events.json
+          git commit -m "update events feed" || echo "no changes"
           git push
