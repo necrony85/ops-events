@@ -1,169 +1,15 @@
 [
   {
     "name": "Harvester",
-    "map": "Blue Gate",
+    "map": "Spaceport",
     "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
-    "startTime": 1774177200000,
-    "endTime": 1774180800000
-  },
-  {
-    "name": "Hurricane",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
-    "startTime": 1774177200000,
-    "endTime": 1774180800000
-  },
-  {
-    "name": "Cold Snap",
-    "map": "Buried City",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/coldsnap.webp",
-    "startTime": 1774177200000,
-    "endTime": 1774180800000
-  },
-  {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
-    "startTime": 1774180800000,
-    "endTime": 1774184400000
-  },
-  {
-    "name": "Cold Snap",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/coldsnap.webp",
-    "startTime": 1774180800000,
-    "endTime": 1774184400000
-  },
-  {
-    "name": "Hurricane",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
-    "startTime": 1774184400000,
-    "endTime": 1774188000000
-  },
-  {
-    "name": "Electromagnetic Storm",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/electrical.webp",
-    "startTime": 1774184400000,
-    "endTime": 1774188000000
-  },
-  {
-    "name": "Matriarch",
-    "map": "Dam",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
-    "startTime": 1774184400000,
-    "endTime": 1774188000000
-  },
-  {
-    "name": "Bird City",
-    "map": "Buried City",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/birdcity.webp",
-    "startTime": 1774184400000,
-    "endTime": 1774188000000
-  },
-  {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
-    "startTime": 1774188000000,
-    "endTime": 1774191600000
-  },
-  {
-    "name": "Matriarch",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
-    "startTime": 1774188000000,
-    "endTime": 1774191600000
-  },
-  {
-    "name": "Electromagnetic Storm",
-    "map": "Dam",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/electrical.webp",
-    "startTime": 1774188000000,
-    "endTime": 1774191600000
-  },
-  {
-    "name": "Hurricane",
-    "map": "Buried City",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
-    "startTime": 1774188000000,
-    "endTime": 1774191600000
-  },
-  {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
-    "startTime": 1774191600000,
-    "endTime": 1774195200000
-  },
-  {
-    "name": "Hurricane",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
-    "startTime": 1774191600000,
-    "endTime": 1774195200000
-  },
-  {
-    "name": "Night Raid",
-    "map": "Buried City",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
-    "startTime": 1774191600000,
-    "endTime": 1774195200000
-  },
-  {
-    "name": "Electromagnetic Storm",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/electrical.webp",
-    "startTime": 1774195200000,
-    "endTime": 1774198800000
-  },
-  {
-    "name": "Harvester",
-    "map": "Dam",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
-    "startTime": 1774195200000,
-    "endTime": 1774198800000
-  },
-  {
-    "name": "Husk Graveyard",
-    "map": "Buried City",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
-    "startTime": 1774195200000,
-    "endTime": 1774198800000
-  },
-  {
-    "name": "Hurricane",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
-    "startTime": 1774198800000,
-    "endTime": 1774202400000
-  },
-  {
-    "name": "Harvester",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
-    "startTime": 1774198800000,
-    "endTime": 1774202400000
-  },
-  {
-    "name": "Electromagnetic Storm",
-    "map": "Blue Gate",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/electrical.webp",
-    "startTime": 1774198800000,
-    "endTime": 1774202400000
-  },
-  {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774202400000,
     "endTime": 1774206000000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774202400000,
     "endTime": 1774206000000
   },
@@ -434,16 +280,16 @@
     "endTime": 1774245600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1774245600000,
     "endTime": 1774249200000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774245600000,
     "endTime": 1774249200000
   },
@@ -567,6 +413,20 @@
     "endTime": 1774267200000
   },
   {
+    "name": "Hurricane",
+    "map": "Blue Gate",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
+    "startTime": 1774263600000,
+    "endTime": 1774267200000
+  },
+  {
+    "name": "Cold Snap",
+    "map": "Buried City",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/coldsnap.webp",
+    "startTime": 1774263600000,
+    "endTime": 1774267200000
+  },
+  {
     "name": "Matriarch",
     "map": "Spaceport",
     "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
@@ -579,6 +439,13 @@
     "icon": "https://cdn.metaforge.app/arc-raiders/custom/coldsnap.webp",
     "startTime": 1774267200000,
     "endTime": 1774270800000
+  },
+  {
+    "name": "Hurricane",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
+    "startTime": 1774270800000,
+    "endTime": 1774274400000
   },
   {
     "name": "Locked Gate",
@@ -623,9 +490,30 @@
     "endTime": 1774278000000
   },
   {
+    "name": "Hurricane",
+    "map": "Buried City",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
+    "startTime": 1774274400000,
+    "endTime": 1774278000000
+  },
+  {
     "name": "Launch Tower Loot",
     "map": "Spaceport",
     "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "startTime": 1774278000000,
+    "endTime": 1774281600000
+  },
+  {
+    "name": "Hurricane",
+    "map": "Blue Gate",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
+    "startTime": 1774278000000,
+    "endTime": 1774281600000
+  },
+  {
+    "name": "Night Raid",
+    "map": "Buried City",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774278000000,
     "endTime": 1774281600000
   },
@@ -651,6 +539,13 @@
     "endTime": 1774285200000
   },
   {
+    "name": "Hurricane",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/hurricane.webp",
+    "startTime": 1774285200000,
+    "endTime": 1774288800000
+  },
+  {
     "name": "Lush Blooms",
     "map": "Blue Gate",
     "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
@@ -665,16 +560,16 @@
     "endTime": 1774288800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Lush Blooms",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
     "startTime": 1774288800000,
     "endTime": 1774292400000
   },
   {
-    "name": "Lush Blooms",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774288800000,
     "endTime": 1774292400000
   },
@@ -826,16 +721,16 @@
     "endTime": 1774335600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1774335600000,
     "endTime": 1774339200000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774335600000,
     "endTime": 1774339200000
   },
@@ -959,16 +854,16 @@
     "endTime": 1774378800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1774378800000,
     "endTime": 1774382400000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774378800000,
     "endTime": 1774382400000
   },
@@ -1092,16 +987,16 @@
     "endTime": 1774425600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774425600000,
     "endTime": 1774429200000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774425600000,
     "endTime": 1774429200000
   },
@@ -1225,16 +1120,16 @@
     "endTime": 1774468800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Lush Blooms",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
     "startTime": 1774468800000,
     "endTime": 1774472400000
   },
   {
-    "name": "Lush Blooms",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774468800000,
     "endTime": 1774472400000
   },
@@ -1267,16 +1162,16 @@
     "endTime": 1774483200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774483200000,
     "endTime": 1774486800000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774483200000,
     "endTime": 1774486800000
   },
@@ -1358,16 +1253,16 @@
     "endTime": 1774504800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774504800000,
     "endTime": 1774508400000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774504800000,
     "endTime": 1774508400000
   },
@@ -1491,16 +1386,16 @@
     "endTime": 1774548000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1774548000000,
     "endTime": 1774551600000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774548000000,
     "endTime": 1774551600000
   },
@@ -1624,16 +1519,16 @@
     "endTime": 1774594800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1774594800000,
     "endTime": 1774598400000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774594800000,
     "endTime": 1774598400000
   },
@@ -1757,16 +1652,16 @@
     "endTime": 1774638000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774638000000,
     "endTime": 1774641600000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774638000000,
     "endTime": 1774641600000
   },
@@ -1890,16 +1785,16 @@
     "endTime": 1774684800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1774684800000,
     "endTime": 1774688400000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774684800000,
     "endTime": 1774688400000
   },
@@ -2023,16 +1918,16 @@
     "endTime": 1774728000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774728000000,
     "endTime": 1774731600000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774728000000,
     "endTime": 1774731600000
   },
@@ -2065,16 +1960,16 @@
     "endTime": 1774742400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Lush Blooms",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
     "startTime": 1774742400000,
     "endTime": 1774746000000
   },
   {
-    "name": "Lush Blooms",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774742400000,
     "endTime": 1774746000000
   },
@@ -2156,16 +2051,16 @@
     "endTime": 1774764000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Lush Blooms",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
     "startTime": 1774764000000,
     "endTime": 1774767600000
   },
   {
-    "name": "Lush Blooms",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/lush.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774764000000,
     "endTime": 1774767600000
   },
@@ -2289,16 +2184,16 @@
     "endTime": 1774807200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1774807200000,
     "endTime": 1774810800000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774807200000,
     "endTime": 1774810800000
   },
@@ -2436,16 +2331,16 @@
     "endTime": 1774850400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Husk Graveyard",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
     "startTime": 1774850400000,
     "endTime": 1774854000000
   },
   {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774850400000,
     "endTime": 1774854000000
   },
@@ -2590,16 +2485,16 @@
     "endTime": 1774893600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774893600000,
     "endTime": 1774897200000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774893600000,
     "endTime": 1774897200000
   },
@@ -2744,16 +2639,16 @@
     "endTime": 1774940400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1774940400000,
     "endTime": 1774944000000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774940400000,
     "endTime": 1774944000000
   },
@@ -2898,16 +2793,16 @@
     "endTime": 1774983600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Husk Graveyard",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
     "startTime": 1774983600000,
     "endTime": 1774987200000
   },
   {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1774983600000,
     "endTime": 1774987200000
   },
@@ -3052,16 +2947,16 @@
     "endTime": 1775030400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Prospecting Probes",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
     "startTime": 1775030400000,
     "endTime": 1775034000000
   },
   {
-    "name": "Prospecting Probes",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775030400000,
     "endTime": 1775034000000
   },
@@ -3206,16 +3101,16 @@
     "endTime": 1775073600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Husk Graveyard",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
     "startTime": 1775073600000,
     "endTime": 1775077200000
   },
   {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775073600000,
     "endTime": 1775077200000
   },
@@ -3255,16 +3150,16 @@
     "endTime": 1775088000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Husk Graveyard",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
     "startTime": 1775088000000,
     "endTime": 1775091600000
   },
   {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775088000000,
     "endTime": 1775091600000
   },
@@ -3346,16 +3241,16 @@
     "endTime": 1775109600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1775109600000,
     "endTime": 1775113200000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775109600000,
     "endTime": 1775113200000
   },
@@ -3500,16 +3395,16 @@
     "endTime": 1775152800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1775152800000,
     "endTime": 1775156400000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775152800000,
     "endTime": 1775156400000
   },
@@ -3661,16 +3556,16 @@
     "endTime": 1775199600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Prospecting Probes",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
     "startTime": 1775199600000,
     "endTime": 1775203200000
   },
   {
-    "name": "Prospecting Probes",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775199600000,
     "endTime": 1775203200000
   },
@@ -3815,16 +3710,16 @@
     "endTime": 1775242800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1775242800000,
     "endTime": 1775246400000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775242800000,
     "endTime": 1775246400000
   },
@@ -3969,16 +3864,16 @@
     "endTime": 1775289600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Husk Graveyard",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
     "startTime": 1775289600000,
     "endTime": 1775293200000
   },
   {
-    "name": "Husk Graveyard",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/husk-graveyard.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775289600000,
     "endTime": 1775293200000
   },
@@ -4123,16 +4018,16 @@
     "endTime": 1775332800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Prospecting Probes",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
     "startTime": 1775332800000,
     "endTime": 1775336400000
   },
   {
-    "name": "Prospecting Probes",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/probe.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775332800000,
     "endTime": 1775336400000
   },
@@ -4179,16 +4074,16 @@
     "endTime": 1775347200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1775347200000,
     "endTime": 1775350800000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775347200000,
     "endTime": 1775350800000
   },
@@ -4263,16 +4158,16 @@
     "endTime": 1775368800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1775368800000,
     "endTime": 1775372400000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775368800000,
     "endTime": 1775372400000
   },
@@ -4417,16 +4312,16 @@
     "endTime": 1775412000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1775412000000,
     "endTime": 1775415600000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775412000000,
     "endTime": 1775415600000
   },
@@ -4564,16 +4459,16 @@
     "endTime": 1775455200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1775455200000,
     "endTime": 1775458800000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775455200000,
     "endTime": 1775458800000
   },
@@ -4697,16 +4592,16 @@
     "endTime": 1775498400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1775498400000,
     "endTime": 1775502000000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775498400000,
     "endTime": 1775502000000
   },
@@ -4830,16 +4725,16 @@
     "endTime": 1775545200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775545200000,
     "endTime": 1775548800000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775545200000,
     "endTime": 1775548800000
   },
@@ -4963,16 +4858,16 @@
     "endTime": 1775588400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1775588400000,
     "endTime": 1775592000000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775588400000,
     "endTime": 1775592000000
   },
@@ -5096,16 +4991,16 @@
     "endTime": 1775635200000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1775635200000,
     "endTime": 1775638800000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775635200000,
     "endTime": 1775638800000
   },
@@ -5229,16 +5124,16 @@
     "endTime": 1775678400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1775678400000,
     "endTime": 1775682000000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775678400000,
     "endTime": 1775682000000
   },
@@ -5271,16 +5166,16 @@
     "endTime": 1775692800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Harvester",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
     "startTime": 1775692800000,
     "endTime": 1775696400000
   },
   {
-    "name": "Harvester",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/harvester.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775692800000,
     "endTime": 1775696400000
   },
@@ -5362,16 +5257,16 @@
     "endTime": 1775714400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775714400000,
     "endTime": 1775718000000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775714400000,
     "endTime": 1775718000000
   },
@@ -5495,16 +5390,16 @@
     "endTime": 1775757600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775757600000,
     "endTime": 1775761200000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775757600000,
     "endTime": 1775761200000
   },
@@ -5628,16 +5523,16 @@
     "endTime": 1775804400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775804400000,
     "endTime": 1775808000000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775804400000,
     "endTime": 1775808000000
   },
@@ -5761,16 +5656,16 @@
     "endTime": 1775847600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1775847600000,
     "endTime": 1775851200000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775847600000,
     "endTime": 1775851200000
   },
@@ -5894,16 +5789,16 @@
     "endTime": 1775894400000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775894400000,
     "endTime": 1775898000000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775894400000,
     "endTime": 1775898000000
   },
@@ -6027,16 +5922,16 @@
     "endTime": 1775937600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775937600000,
     "endTime": 1775941200000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775937600000,
     "endTime": 1775941200000
   },
@@ -6069,16 +5964,16 @@
     "endTime": 1775952000000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Uncovered Caches",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
     "startTime": 1775952000000,
     "endTime": 1775955600000
   },
   {
-    "name": "Uncovered Caches",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/cache.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775952000000,
     "endTime": 1775955600000
   },
@@ -6160,16 +6055,16 @@
     "endTime": 1775973600000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Matriarch",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
     "startTime": 1775973600000,
     "endTime": 1775977200000
   },
   {
-    "name": "Matriarch",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/matriarch.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1775973600000,
     "endTime": 1775977200000
   },
@@ -6293,16 +6188,16 @@
     "endTime": 1776016800000
   },
   {
-    "name": "Night Raid",
-    "map": "Stella Montis",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
+    "name": "Launch Tower Loot",
+    "map": "Spaceport",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
     "startTime": 1776016800000,
     "endTime": 1776020400000
   },
   {
-    "name": "Launch Tower Loot",
-    "map": "Spaceport",
-    "icon": "https://cdn.metaforge.app/arc-raiders/custom/launchtowerloot.webp",
+    "name": "Night Raid",
+    "map": "Stella Montis",
+    "icon": "https://cdn.metaforge.app/arc-raiders/custom/night.webp",
     "startTime": 1776016800000,
     "endTime": 1776020400000
   },
